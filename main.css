@@ -1,0 +1,156 @@
+body {
+    text-align: center; 
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    -o-backgorund-size: 100% 100%;
+    color: white;
+}
+#header {
+height: 50px;
+width: 100%;
+margin: 0 auto;
+background-color: white;
+}
+nav {
+    background-color: darkgray;
+    text-align: center;
+    padding: .5em;
+}
+#utilitymenu {
+    display:inline-block;
+    color: yellow;
+
+}
+
+#imageblock {
+    float: left;
+    width: 65%;
+    height: 450px;
+    display: block;
+    background-color: rgb(71, 71, 71);
+    margin: .5em 0 .5em .5em;
+    padding: 1.7em .5em 2.0em 1.7em;
+    border-radius: 10px;
+    border-color: thistle;
+    border: 5px solid thistle;
+    
+}
+#imgtextblock {
+   position: relative;
+    top: 250px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#chest1 {
+   position: relative;
+   right: -380px;
+   top: -135px;
+   
+}
+
+#chest2 {
+    position: relative;
+    right: 105px;
+    top: -390px;
+
+
+}
+
+#chest3 {
+    position: absolute;
+    top: 140px;
+}
+
+#emailblock {
+    background-color: rgb(53, 53, 53);
+    width: 100%;
+    float: right;
+    width: 32.5%;
+    height: 450px;
+    display: block;
+    margin: .5em 0 .5em .5em;
+    padding: 1.7em 0.5em 2.0em 1.7em;
+    border-radius: 10px;
+    border: 5px solid thistle;
+
+
+}
+
+#textblockright {
+    color: white;
+    float: right;
+    width: 29%;
+    height: 450px;
+    display: block;
+    background-color: rgb(121, 87, 87);
+    margin: .5em 0 .5em .5em;
+    padding: 1.7em 0.5em 2.0em 1.7em;
+    border-radius: 10px;
+    border: 5px solid thistle;
+    
+}
+
+#contactinfoblock {
+    float: left;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 25%;
+    height: 450px;
+    display: block;
+    background-color: rgb(121, 87, 87);
+    margin: .5em 0 .5em .5em;
+    padding: 1.7em 0.5em 2.0em 1.7em;
+    border-radius: 10px;
+    border: 5px solid thistle;
+
+
+
+}
+
+#questionblock {
+    float: left;
+    width: 34%;
+    height: 450px;
+    display: block;
+    background-color: rgb(43, 43, 43);
+    margin: .5em 0 .5em .5em;
+    padding: 1.7em 0.5em 2.0em 1.7em;
+    border-radius: 10px;
+    border: 5px solid thistle;
+
+
+}
+
+.acctNav {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.imagepaanel {
+    width: 100px;
+    height: 100px;
+    
+}
+
+form {
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+
+#banner {
+    background: url(../StaticStore/Assets/graybg.jpg);
+    width: 100%;
+    height: 50px;
+}
+
+img {
+    width: 500x;
+    height: 250px;
+    border-radius: 3px;
+}
